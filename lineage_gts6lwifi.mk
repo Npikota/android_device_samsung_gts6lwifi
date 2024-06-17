@@ -17,7 +17,7 @@ $(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
 PRODUCT_DEVICE := gts6lwifi
 PRODUCT_NAME := lineage_gts6lwifi
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-T860
+PRODUCT_MODEL := SM-T720
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_SYSTEM_NAME := gts6lwifixx
